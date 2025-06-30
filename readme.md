@@ -6,6 +6,8 @@
 - Interactive buttons, hover effects, and engaging user experience.
 - A footer with buttons icons and essential needs.
 
-Sample Screen (large screen)
+---
+
+Sample Screen
 
 ![alt text](lg.png)
